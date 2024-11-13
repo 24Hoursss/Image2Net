@@ -1,6 +1,6 @@
 ## Usage
 
-`sh ~/submission/build.sh`
+`sh ./build.sh`
 
 Please install package `dgl`, `pytorch` by yourself.
 

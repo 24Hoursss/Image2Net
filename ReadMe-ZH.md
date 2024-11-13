@@ -1,6 +1,6 @@
 ## 使用方法
 
-`sh ~/submission/build.sh`
+`sh ./build.sh`
 
 请自行安装`dgl`和`pytorch`库。
 
