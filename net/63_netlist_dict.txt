@@ -1,0 +1,1 @@
+{"ckt_type": "Comparator", "ckt_netlist": [{"component_type": "Diso_amp", "port_connection": {"InN": "U0", "InP": "U1", "Out": "U2"}}]}

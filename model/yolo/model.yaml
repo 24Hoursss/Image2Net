@@ -1,0 +1,88 @@
+has_visible: 'true'
+classes:
+  pmos:
+  - Drain
+  - Source
+  - Gate
+  pmos-cross:
+  - Drain
+  - Source
+  - Gate
+  pmos-bulk:
+  - Drain
+  - Source
+  - Gate
+  - Body
+  nmos:
+  - Drain
+  - Source
+  - Gate
+  nmos-cross:
+  - Drain
+  - Source
+  - Gate
+  nmos-bulk:
+  - Drain
+  - Source
+  - Gate
+  - Body
+  Voltage_1:
+  - Positive
+  - Negative
+  Voltage_2:
+  - Positive
+  - Negative
+  current:
+  - Positive
+  - Negative
+  npn:
+  - Base
+  - Emitter
+  - Collect
+  npn-cross:
+  - Base
+  - Emitter
+  - Collect
+  pnp:
+  - Base
+  - Emitter
+  - Collect
+  pnp-cross:
+  - Base
+  - Emitter
+  - Collect
+  diode:
+  - In
+  - Out
+  Diso_amp:
+  - InN
+  - InP
+  - Out
+  Siso_amp:
+  - In
+  - Out
+  Dido_amp:
+  - InN
+  - InP
+  - OutN
+  - OutP
+  capacitor:
+  - Positive
+  - Negative
+  gnd:
+  - port
+  inductor:
+  - Positive
+  - Negative
+  resistor:
+  - Positive
+  - Negative
+  resistor2:
+  - Positive
+  - Negative
+  vdd:
+  - port
+  cross: []
+  corner: []
+  switch: []
+  switch-3: []

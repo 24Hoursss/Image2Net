@@ -1,0 +1,1 @@
+{"ckt_type": "SISO-Amplifier", "ckt_netlist": [{"component_type": "Current", "port_connection": {"Out": "GND", "In": "n1"}}, {"component_type": "Res", "port_connection": {"Pos": "GND", "Neg": "n1"}}, {"component_type": "Voltage", "port_connection": {"Positive": "U0", "Negative": "GND"}}]}

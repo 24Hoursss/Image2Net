@@ -1,0 +1,8 @@
+path: C:\Users\PC\Desktop\EDA2024\train
+train: train9
+val: train9 # 如果没有单独的验证集，使用同一目录
+
+nc: 27  # 替换为你的类别数
+kpt_shape: [ 4, 3 ]
+flip_idx: [ 0, 1, 2, 3 ]
+names: [ 'pmos', 'pmos-cross', 'pmos-bulk', 'nmos', 'nmos-cross', 'nmos-bulk', 'Voltage_1', 'Voltage_2', 'current', 'npn', 'npn-cross', 'pnp', 'pnp-cross', 'diode', 'Diso_amp', 'Siso_amp', 'Dido_amp', 'capacitor', 'gnd', 'inductor', 'resistor', 'resistor2', 'vdd', 'cross', 'corner', 'switch', 'switch-3' ]

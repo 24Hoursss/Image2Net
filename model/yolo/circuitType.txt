@@ -1,0 +1,7 @@
+DISO-Amplifier
+DIDO-Amplifier
+SISO-Amplifier
+Bandgap
+LDO
+Comparator
+Else

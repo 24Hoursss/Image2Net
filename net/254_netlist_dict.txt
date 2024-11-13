@@ -1,0 +1,1 @@
+{"ckt_type": "SISO-Amplifier", "ckt_netlist": [{"component_type": "NMOS", "port_connection": {"Drain": "U0", "Source": "U1", "Gate": "U2"}}, {"component_type": "NMOS", "port_connection": {"Drain": "U3", "Source": "n0", "Gate": "n1"}}, {"component_type": "NMOS", "port_connection": {"Drain": "n0", "Source": "U4", "Gate": "n1"}}]}

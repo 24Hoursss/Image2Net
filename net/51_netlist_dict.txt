@@ -1,0 +1,1 @@
+{"ckt_type": "Bandgap", "ckt_netlist": [{"component_type": "NMOS", "port_connection": {"Drain": "n0", "Source": "GND", "Gate": "n0"}}, {"component_type": "NMOS", "port_connection": {"Drain": "U0", "Source": "GND", "Gate": "n0"}}]}

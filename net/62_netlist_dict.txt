@@ -1,0 +1,1 @@
+{"ckt_type": "Comparator", "ckt_netlist": [{"component_type": "PMOS", "port_connection": {"Drain": "n0", "Source": "VDD", "Gate": "U0"}}, {"component_type": "NMOS", "port_connection": {"Drain": "n0", "Source": "GND", "Gate": "n3"}}, {"component_type": "Voltage", "port_connection": {"Positive": "n3", "Negative": "GND"}}]}

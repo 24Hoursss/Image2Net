@@ -1,0 +1,1 @@
+{"ckt_type": "DISO-Amplifier", "ckt_netlist": [{"component_type": "Res", "port_connection": {"Pos": "U0", "Neg": "n0"}}, {"component_type": "Res", "port_connection": {"Pos": "n0", "Neg": "n1"}}, {"component_type": "Diso_amp", "port_connection": {"InN": "n0", "InP": "GND", "Out": "n1"}}]}

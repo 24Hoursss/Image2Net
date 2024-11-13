@@ -1,0 +1,1 @@
+{"ckt_type": "LDO", "ckt_netlist": [{"component_type": "NMOS", "port_connection": {"Drain": "n0", "Source": "VDD", "Gate": "U0", "Body": "VDD"}}, {"component_type": "NMOS", "port_connection": {"Drain": "n0", "Source": "U2", "Gate": "n0"}}]}
